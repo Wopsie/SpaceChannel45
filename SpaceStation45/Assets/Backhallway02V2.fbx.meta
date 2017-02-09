@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: ccbbd7557095f2e4695a8aac530eab91
+timeCreated: 1486558950
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: door05
+    100004: doorPanel03
+    100006: doorPanel04
+    100008: frame
+    100010: middlepart
+    100012: panel2
+    100014: panel2 1
+    100016: pCube147
+    100018: pCube149
+    100020: pCube150
+    100022: pCube151
+    100024: pCube152
+    100026: pCube153
+    100028: pCube157
+    100030: pCube158
+    100032: pCube159
+    100034: pCube169
+    100036: pCylinder12
+    100038: pCylinder45
+    100040: polySurface21
+    100042: polySurface22
+    100044: polySurface22 1
+    100046: polySurface23
+    100048: pPlane5
+    100050: pPlane6
+    100052: pPlane7
+    100054: pPlane8
+    100056: pSphere17
+    100058: pSphere17 1
+    100060: pTorus2
+    100062: pTorus4
+    100064: transform10
+    100066: transform8
+    100068: transform9
+    400000: //RootNode
+    400002: door05
+    400004: doorPanel03
+    400006: doorPanel04
+    400008: frame
+    400010: middlepart
+    400012: panel2
+    400014: panel2 1
+    400016: pCube147
+    400018: pCube149
+    400020: pCube150
+    400022: pCube151
+    400024: pCube152
+    400026: pCube153
+    400028: pCube157
+    400030: pCube158
+    400032: pCube159
+    400034: pCube169
+    400036: pCylinder12
+    400038: pCylinder45
+    400040: polySurface21
+    400042: polySurface22
+    400044: polySurface22 1
+    400046: polySurface23
+    400048: pPlane5
+    400050: pPlane6
+    400052: pPlane7
+    400054: pPlane8
+    400056: pSphere17
+    400058: pSphere17 1
+    400060: pTorus2
+    400062: pTorus4
+    400064: transform10
+    400066: transform8
+    400068: transform9
+    2300000: panel2
+    2300002: panel2 1
+    2300004: pCube147
+    2300006: pCube149
+    2300008: pCube150
+    2300010: pCube151
+    2300012: pCube152
+    2300014: pCube153
+    2300016: pCube157
+    2300018: pCube158
+    2300020: pCube159
+    2300022: pCube169
+    2300024: pCylinder12
+    2300026: pCylinder45
+    2300028: polySurface21
+    2300030: polySurface22 1
+    2300032: pPlane5
+    2300034: pPlane6
+    2300036: pPlane7
+    2300038: pPlane8
+    2300040: pSphere17
+    2300042: pSphere17 1
+    2300044: pTorus2
+    2300046: pTorus4
+    3300000: panel2
+    3300002: panel2 1
+    3300004: pCube147
+    3300006: pCube149
+    3300008: pCube150
+    3300010: pCube151
+    3300012: pCube152
+    3300014: pCube153
+    3300016: pCube157
+    3300018: pCube158
+    3300020: pCube159
+    3300022: pCube169
+    3300024: pCylinder12
+    3300026: pCylinder45
+    3300028: polySurface21
+    3300030: polySurface22 1
+    3300032: pPlane5
+    3300034: pPlane6
+    3300036: pPlane7
+    3300038: pPlane8
+    3300040: pSphere17
+    3300042: pSphere17 1
+    3300044: pTorus2
+    3300046: pTorus4
+    4300000: pTorus4
+    4300002: pCylinder45
+    4300004: polySurface22
+    4300006: pCylinder12
+    4300008: pTorus2
+    4300010: polySurface21
+    4300012: panel2
+    4300014: pSphere17
+    4300016: pPlane6
+    4300018: pPlane8
+    4300020: pCube159
+    4300022: pCube157
+    4300024: pCube158
+    4300026: pPlane5
+    4300028: pPlane7
+    4300030: pCube152
+    4300032: pCube153
+    4300034: pCube151
+    4300036: pCube150
+    4300038: pCube147
+    4300040: pCube149
+    4300042: panel2
+    4300044: pSphere17
+    4300046: pCube169
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

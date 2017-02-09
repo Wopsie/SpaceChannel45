@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: a8713f054b559304dbdfb3aee5782278
+timeCreated: 1485952868
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BRIDGE
+    100002: //RootNode
+    100004: BRIDGE1
+    100006: Door01
+    100008: Door01 1
+    100010: Door02
+    100012: pCube101
+    100014: pCube106
+    100016: pCube106 1
+    100018: pCube107
+    100020: pCube107 1
+    100022: pCube108
+    100024: pCube108 1
+    100026: pCube109
+    100028: pCube109 1
+    100030: pCube110
+    100032: pCube110 1
+    100034: pCube111
+    100036: pCube111 1
+    100038: pCube112
+    100040: pCube112 1
+    100042: pCube113
+    100044: pCube113 1
+    100046: pCube114
+    100048: pCube114 1
+    100050: pCube116
+    100052: pCube116 1
+    100054: pCube117
+    100056: pCube117 1
+    100058: pCube123
+    100060: pCube123 1
+    100062: pCube89
+    100064: pCube89 1
+    100066: pCube90
+    100068: pCube90 1
+    100070: pCube91
+    100072: pCube91 1
+    100074: pCube92
+    100076: pCube92 1
+    100078: pCube93
+    100080: pCube93 1
+    100082: pCube94
+    100084: pCube94 1
+    100086: pCube95
+    100088: pCube95 1
+    100090: pCube96
+    100092: pCube96 1
+    100094: pCube97
+    100096: pCube97 1
+    100098: Ventishaft02
+    100100: Ventishaft02 1
+    100102: Ventishaft03
+    100104: Ventishaft03 1
+    100106: Ventishaft04
+    100108: Ventishaft05
+    100110: Ventshaft01
+    100112: Ventshaft01 1
+    400000: BRIDGE
+    400002: //RootNode
+    400004: BRIDGE1
+    400006: Door01
+    400008: Door01 1
+    400010: Door02
+    400012: pCube101
+    400014: pCube106
+    400016: pCube106 1
+    400018: pCube107
+    400020: pCube107 1
+    400022: pCube108
+    400024: pCube108 1
+    400026: pCube109
+    400028: pCube109 1
+    400030: pCube110
+    400032: pCube110 1
+    400034: pCube111
+    400036: pCube111 1
+    400038: pCube112
+    400040: pCube112 1
+    400042: pCube113
+    400044: pCube113 1
+    400046: pCube114
+    400048: pCube114 1
+    400050: pCube116
+    400052: pCube116 1
+    400054: pCube117
+    400056: pCube117 1
+    400058: pCube123
+    400060: pCube123 1
+    400062: pCube89
+    400064: pCube89 1
+    400066: pCube90
+    400068: pCube90 1
+    400070: pCube91
+    400072: pCube91 1
+    400074: pCube92
+    400076: pCube92 1
+    400078: pCube93
+    400080: pCube93 1
+    400082: pCube94
+    400084: pCube94 1
+    400086: pCube95
+    400088: pCube95 1
+    400090: pCube96
+    400092: pCube96 1
+    400094: pCube97
+    400096: pCube97 1
+    400098: Ventishaft02
+    400100: Ventishaft02 1
+    400102: Ventishaft03
+    400104: Ventishaft03 1
+    400106: Ventishaft04
+    400108: Ventishaft05
+    400110: Ventshaft01
+    400112: Ventshaft01 1
+    2300000: Door01 1
+    2300002: Door02
+    2300004: pCube101
+    2300006: pCube106
+    2300008: pCube106 1
+    2300010: pCube107
+    2300012: pCube107 1
+    2300014: pCube108
+    2300016: pCube108 1
+    2300018: pCube109
+    2300020: pCube109 1
+    2300022: pCube110
+    2300024: pCube110 1
+    2300026: pCube111
+    2300028: pCube111 1
+    2300030: pCube112
+    2300032: pCube112 1
+    2300034: pCube113
+    2300036: pCube113 1
+    2300038: pCube114
+    2300040: pCube114 1
+    2300042: pCube116
+    2300044: pCube116 1
+    2300046: pCube117
+    2300048: pCube117 1
+    2300050: pCube123
+    2300052: pCube123 1
+    2300054: pCube89
+    2300056: pCube89 1
+    2300058: pCube90
+    2300060: pCube90 1
+    2300062: pCube91
+    2300064: pCube91 1
+    2300066: pCube92
+    2300068: pCube92 1
+    2300070: pCube93
+    2300072: pCube93 1
+    2300074: pCube94
+    2300076: pCube94 1
+    2300078: pCube95
+    2300080: pCube95 1
+    2300082: pCube96
+    2300084: pCube96 1
+    2300086: pCube97
+    2300088: pCube97 1
+    2300090: Ventishaft02
+    2300092: Ventishaft02 1
+    2300094: Ventishaft03
+    2300096: Ventishaft03 1
+    2300098: Ventishaft04
+    2300100: Ventishaft05
+    2300102: Ventshaft01
+    2300104: Ventshaft01 1
+    3300000: Door01 1
+    3300002: Door02
+    3300004: pCube101
+    3300006: pCube106
+    3300008: pCube106 1
+    3300010: pCube107
+    3300012: pCube107 1
+    3300014: pCube108
+    3300016: pCube108 1
+    3300018: pCube109
+    3300020: pCube109 1
+    3300022: pCube110
+    3300024: pCube110 1
+    3300026: pCube111
+    3300028: pCube111 1
+    3300030: pCube112
+    3300032: pCube112 1
+    3300034: pCube113
+    3300036: pCube113 1
+    3300038: pCube114
+    3300040: pCube114 1
+    3300042: pCube116
+    3300044: pCube116 1
+    3300046: pCube117
+    3300048: pCube117 1
+    3300050: pCube123
+    3300052: pCube123 1
+    3300054: pCube89
+    3300056: pCube89 1
+    3300058: pCube90
+    3300060: pCube90 1
+    3300062: pCube91
+    3300064: pCube91 1
+    3300066: pCube92
+    3300068: pCube92 1
+    3300070: pCube93
+    3300072: pCube93 1
+    3300074: pCube94
+    3300076: pCube94 1
+    3300078: pCube95
+    3300080: pCube95 1
+    3300082: pCube96
+    3300084: pCube96 1
+    3300086: pCube97
+    3300088: pCube97 1
+    3300090: Ventishaft02
+    3300092: Ventishaft02 1
+    3300094: Ventishaft03
+    3300096: Ventishaft03 1
+    3300098: Ventishaft04
+    3300100: Ventishaft05
+    3300102: Ventshaft01
+    3300104: Ventshaft01 1
+    4300000: pCube95
+    4300002: pCube96
+    4300004: pCube97
+    4300006: pCube106
+    4300008: pCube107
+    4300010: pCube108
+    4300012: pCube109
+    4300014: pCube110
+    4300016: pCube111
+    4300018: pCube112
+    4300020: pCube113
+    4300022: pCube114
+    4300024: pCube116
+    4300026: pCube94
+    4300028: pCube93
+    4300030: pCube92
+    4300032: pCube91
+    4300034: pCube90
+    4300036: pCube89
+    4300038: pCube117
+    4300040: Ventishaft02
+    4300042: Ventshaft01
+    4300044: Ventishaft03
+    4300046: pCube123
+    4300048: Ventishaft04
+    4300050: Ventishaft05
+    4300052: pCube95
+    4300054: pCube96
+    4300056: pCube97
+    4300058: pCube101
+    4300060: pCube106
+    4300062: pCube107
+    4300064: pCube108
+    4300066: pCube109
+    4300068: pCube110
+    4300070: pCube111
+    4300072: pCube112
+    4300074: pCube113
+    4300076: pCube114
+    4300078: pCube116
+    4300080: pCube94
+    4300082: pCube93
+    4300084: pCube92
+    4300086: pCube91
+    4300088: pCube90
+    4300090: pCube89
+    4300092: pCube117
+    4300094: Ventishaft02
+    4300096: Ventshaft01
+    4300098: Ventishaft03
+    4300100: pCube123
+    4300102: Door02
+    4300104: Door01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
