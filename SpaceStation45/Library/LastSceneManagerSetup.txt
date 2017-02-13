@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SS45.unity
+- path: Assets/Scenes/SS45.unity
   isLoaded: 1
   isActive: 1
